@@ -54,5 +54,5 @@ After updating and removing the 9th graders from Thomas High School, the pecernt
 
 ## Summary 
 
-Overall, after only taking into account the 10th - 12th graders for Thomas High School, it did not have much of an impact for the bins they were in compared to before when we were factoring in the 9th graders too. The only time there was a significant change was when the 9th graders were still factored in for Thomas High School but their values were updated to Nan.  
+Overall, after only taking into account the 10th - 12th graders for Thomas High School, it did not have much of an impact for the bins they were in compared to before when we were factoring in the 9th graders too. The only time there was a significant change was when the 9th graders were still factored in for Thomas High School but their values were updated to NaN.  
 
