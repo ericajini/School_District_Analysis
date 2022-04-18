@@ -16,21 +16,33 @@ After updating and removing the 9th graders values, the overall district summary
 
 ### How is the school summary affected?
 
-After replacing the 9th graders scores to NaN, the school summary is greatly affected. The percentage of students passing math and reading go down to 66.9% and 69.7%. 
+After replacing the 9th graders scores to NaN, the school summary is greatly affected. Thomas High School drops out of the top 5 schools. 
 
 ![Updated_DS](https://github.com/ericajini/School_District_Analysis/blob/main/Pictures/Replacing%209th%20grade%20scores_NaN.png)
 
-When removing the scores for the 9th graders and only including the 10th-12th graders, the math and reading scores shoot back up to 93.2% and 97%. 
+When removing the scores for the 9th graders and only including the 10th-12th graders, Thoms High School shoots back up into the top 5. 
 
 ![Updated_DS](https://github.com/ericajini/School_District_Analysis/blob/main/Pictures/Removing%209th%20grade%20scores.png)
 
+![Updated_DS](https://github.com/ericajini/School_District_Analysis/blob/main/Pictures/Top%205%20Performing%20Schools.png)
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-### How does replacing the ninth-grade scores affect the following:
+When replacing the 9th graders scores, the math and reading percentages of students that pass go down to 66.9% and 69.7%. The overall percentage of students passing goes to 65.1%. 
 
-1. Math and reading scores - 
+After removing the 9th grade scores and only including 10th - 12th graders scores for Thoms High School, the percentage of students passing math and reading go to 93.2% and 97%. The overall percentage of students passing goes to 90.6%. 
+
+1. Math and reading scores - 66.9% and 69.7% to 93.2% and 97%
 2. Scores by school spending - 
+
+![Updated_DS](https://github.com/ericajini/School_District_Analysis/blob/main/Pictures/Scores%20by%20School%20Spending.png)
+
 3. Scores by school size - 
+
+![Updated_DS](https://github.com/ericajini/School_District_Analysis/blob/main/Pictures/Scores%20by%20School%20Size.png)
+
 4. Scores by school type - 
+
+![Updated_DS](https://github.com/ericajini/School_District_Analysis/blob/main/Pictures/Scores%20by%20School%20Type.png)
 
 ## Summary 
